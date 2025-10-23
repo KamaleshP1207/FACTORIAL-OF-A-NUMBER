@@ -67,6 +67,8 @@ END
 <br>
 <br>
 <br>
+<img width="844" height="224" alt="image" src="https://github.com/user-attachments/assets/bc8597aa-7e2b-4be0-abe5-43521b97aaf5" />
+
 
 
 
@@ -78,6 +80,7 @@ END
 <br>
 <br>
 <br>
+![WhatsApp Image 2025-10-23 at 09 15 33_88314051](https://github.com/user-attachments/assets/08e66c0b-e977-4f04-9b5d-d47e0fb3a190)
 
 
 
